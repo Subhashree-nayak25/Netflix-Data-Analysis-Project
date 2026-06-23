@@ -1,6 +1,3 @@
-# TEST Image
-
-
 ### 🎬 **Netflix Data Analysis**
 
 
